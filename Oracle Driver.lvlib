@@ -8,5 +8,6 @@
 	</Item>
 	<Item Name="Close Connection.vi" Type="VI" URL="../Close Connection.vi"/>
 	<Item Name="Execute Query.vi" Type="VI" URL="../Execute Query.vi"/>
-	<Item Name="Open Connection.vi" Type="VI" URL="../Open Connection.vi"/>
+	<Item Name="Open Connection (Connection String).vi" Type="VI" URL="../Open Connection (Connection String).vi"/>
+	<Item Name="Open Connection (ODBC).vi" Type="VI" URL="../Open Connection (ODBC).vi"/>
 </Library>
